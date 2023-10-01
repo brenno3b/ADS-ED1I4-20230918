@@ -1,0 +1,16 @@
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\bin\Debug\net6.0-windows\ADS-ED1I4-20230918.exe
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\bin\Debug\net6.0-windows\ADS-ED1I4-20230918.deps.json
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\bin\Debug\net6.0-windows\ADS-ED1I4-20230918.runtimeconfig.json
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\bin\Debug\net6.0-windows\ADS-ED1I4-20230918.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\bin\Debug\net6.0-windows\ADS-ED1I4-20230918.pdb
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS_ED1I4_20230918.Form1.resources
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.csproj.GenerateResource.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.AssemblyInfoInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.AssemblyInfo.cs
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\refint\ADS-ED1I4-20230918.dll
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.pdb
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ADS-ED1I4-20230918.genruntimeconfig.cache
+C:\Users\Brenno\source\repos\ADS-ED1I4-20230918\obj\Debug\net6.0-windows\ref\ADS-ED1I4-20230918.dll
